@@ -1,0 +1,17 @@
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+
+*.iml
+*.iws
+*.ipr
+
+*/build/
+
+*~
+*.swp
+
+node_modules
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
